@@ -5,7 +5,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-//para el inicion de sesion, usuario: (Admin) y el password. (1234)
+//para el inicion de sesion, usuario: ( Admin ) y el password. ( 1234 )
 
 /**
  *
