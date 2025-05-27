@@ -7,6 +7,7 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
+
 /**
  *
  * @author jhuila
@@ -399,8 +400,7 @@ public class Acceso extends JFrame implements ActionListener {
     }
     
     private void mostrarAcercaDe() {
-        String mensaje;
-        mensaje = """
+        String mensaje = """
                   SISTEMA DE INFORMACIÓN ACADÉMICA
                   Versión: 1.0
                   Desarrollado en: Java + Swing + MySQL
