@@ -353,4 +353,4 @@ public class Matriculas extends JFrame {
         tablaMatriculas.clearSelection();
     }
 }
-}
+
