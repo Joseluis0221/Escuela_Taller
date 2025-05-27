@@ -411,4 +411,5 @@ public class Acceso extends JFrame implements ActionListener {
         
         JOptionPane.showMessageDialog(this, mensaje, "Acerca del Sistema", JOptionPane.INFORMATION_MESSAGE);
     }
+    
 }

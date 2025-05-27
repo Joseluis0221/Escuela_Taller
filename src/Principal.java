@@ -4,6 +4,9 @@
  */
 import javax.swing.*;
 import java.awt.*;
+
+//para el inicion de sesion, usuario: (Admin) y el password. (1234)
+
 /**
  *
  * @author jhuila
@@ -88,4 +91,5 @@ public class Principal extends JFrame {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new Principal());
     }
+    
 }
